@@ -23,12 +23,12 @@ paginate = 5
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/content/about"
+    url = "/about"
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
-    url = "/content/post"    
+    url = "/post"    
   
   [[menu.social]]
     identifier = "twitter"
