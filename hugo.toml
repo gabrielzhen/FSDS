@@ -1,22 +1,5 @@
-BaseUrl: "http://yet.unresolved.xyz"
-LanguageCode: "en-us"
-Title: "Beg"
-
-Params:
-  Author: "Daisuke Tsuji"
-  DateForm: "Mon, Jan 2, 2006"
-  GoogleAnalyticsUserID: "UA-55005303-5"
-  Facebook: "daisuke.tsuji.735"
-  Twitter: "dim0627"
-  Github: "dim0627"
-  ShowRelatedPost: True
-  Disqus: "unresolved"
-  SyntaxHighlightTheme: "github.min.css"
-
-Indexes:
-  tag: "tags"
-
-permalinks:
-  post: /blog/:year/:month/:day/:slug/
-
-MetadataFormat: "yaml"
+theme = "TopHat"
+title = "Your blog name"
+baseURL = "https://example.com/"
+languageCode = "en-us"
+paginate = 5
