@@ -1,0 +1,35 @@
+/* width */
+/* fonts family */
+/* fonts size */
+/* colors */
+/* defaults */
+/* code embed from Github Gist */
+.gist a {
+  color: inherit;
+}
+
+/* inline blocks of code */
+code {
+  background-color: rgba(0, 160, 153, 0.2);
+}
+
+pre code {
+  background-color: initial;
+}
+
+/* enrich blocks of code */
+div.highlight * {
+  word-wrap: break-word !important;
+  text-wrap: wrap !important;
+  white-space: -webkit-pre-wrap;
+  white-space: pre-wrap;
+  font-size: 16px !important;
+}
+div.highlight > pre {
+  padding: 5px;
+}
+div.highlight > pre code {
+  background-color: initial;
+}
+
+/*# sourceMappingURL=code.css.map */
