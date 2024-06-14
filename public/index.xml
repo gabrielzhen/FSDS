@@ -15,12 +15,5 @@
       <guid>http://localhost:1313/post/first/</guid>
       <description>Hello Hugo aaa bbb ccc </description>
     </item>
-    <item>
-      <title>first</title>
-      <link>http://localhost:1313/sss/</link>
-      <pubDate>Sun, 25 Oct 2015 08:36:54 -0700</pubDate>
-      <guid>http://localhost:1313/sss/</guid>
-      <description>Hello Hugo aaa bbb ccc </description>
-    </item>
   </channel>
 </rss>

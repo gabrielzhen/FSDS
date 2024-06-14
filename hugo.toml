@@ -1,6 +1,6 @@
 theme = "tophat"
 title = "Zheng ShengYun's Blog"
-baseURL = "https://example.com/"
+baseURL = "https://master--gabrielzheng.netlify.app/"
 languageCode = "en-us"
 paginate = 5
 
