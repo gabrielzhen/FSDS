@@ -1,4 +1,4 @@
-theme = "TopHat"
+theme = "tophat"
 title = "Your blog name"
 baseURL = "https://example.com/"
 languageCode = "en-us"
