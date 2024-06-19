@@ -1,41 +1,6 @@
 theme = "tophat"
 title = "Zheng ShengYun's Blog"
 baseURL = "https://master--gabrielzheng.netlify.app/"
-languageCode = "en-us"
+languageCode = "zh-CN"
 paginate = 5
 
-[params]
-    
-  subtitle = "Zheng ShengYun's Blog"
-  description = ""
-  author = "郑盛允"
-
-  main = "post"
-  featured = true
-  
-  show_date_on_article = true
-  show_reading_time_on_article = true
-  show_words_count_on_article = true
-  show_tags_on_article = true
-
-[menu]
-
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about"
-
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/post"    
-  
-  [[menu.social]]
-    identifier = "twitter"
-    name = "Twitter"
-    url = "https://twitter.com/jupiterzheng29" 
-
-  [[menu.social]]
-    identifier = "github"
-    name = "Github"
-    url = "https://github.com/gabrielzhen"
