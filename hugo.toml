@@ -1,4 +1,4 @@
-theme = "tophat"
+theme = "hugo-book"
 title = "Zheng ShengYun's Blog"
 baseURL = "https://master--gabrielzheng.netlify.app/"
 languageCode = "zh-CN"
