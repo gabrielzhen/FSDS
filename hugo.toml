@@ -1,6 +1,8 @@
-theme = "hugo-book"
-title = "Zheng ShengYun's Blog"
-baseURL = "https://master--gabrielzheng.netlify.app/"
-languageCode = "zh-CN"
-paginate = 5
+baseURL ="https://gabrielzheng.netlify.app"
+title = "zhengshengyun"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+paginate = 6
+enableEmoji = true
 
