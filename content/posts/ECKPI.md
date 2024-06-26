@@ -1,3 +1,13 @@
+---
+author: "zhengshengyun"
+date: 2024-06-26
+menu:
+  main:
+    parent: Blog
+title: 行业维度指标梳理
+weight: 10
+discription：转序
+---
 ## （转）🌸行业维度指标梳理🌸
 
 指标体系的目的是为了了解业务全貌、快速业务定位问题、以及明确解决方案。
